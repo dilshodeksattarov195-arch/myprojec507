@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpetch",
+        "uuid": 749853,
+        "checksum": "y4ryg7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
